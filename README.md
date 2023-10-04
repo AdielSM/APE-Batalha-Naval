@@ -5,5 +5,5 @@ O jogo consiste em uma batalha naval comum, onde 2 jogadores digitam seus nomes 
 
 Considerações
 - Caso o jogador acerte um navio, a vez dele irá continuar
-- O jogador não escolhe a posição dos navios, apenas a quantidade(1-6), o código escolhe escolhe celulas aleatórias, sem nunca deixar um navio ao lado do outro. Nesta batalha naval, todos os navios possuem o tamanho de apenas uma célula.
+- O jogador não escolhe a posição dos navios, apenas a quantidade(1-6), o código escolhe células aleatórias, sem nunca deixar um navio ao lado do outro. Nesta batalha naval, todos os navios possuem o tamanho de apenas uma célula.
 - É possível salvar e continuar o jogo.
